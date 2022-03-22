@@ -1,0 +1,51 @@
+body {
+
+  background-color: rgb(46, 151, 199);
+  color: rgb(236, 227, 227);
+  text-align: center;
+  text-decoration-color: rgb(51, 210, 30);
+  border-color: rgb(220, 207, 20);
+
+}
+
+#text {
+  align-self: center;
+  text-align: center;
+  align-content: center;
+
+}
+
+header {
+  background-color: rgb(115, 156, 175);
+  color: rgb(250, 244, 244);
+  width: 100%;
+  text-align: center;
+  border-color: rgb(45, 146, 91);
+  font-weight: bold;
+}
+
+.navbar {
+  word-spacing: 0.2em;
+  text-align: center;
+  background-color: chartreuse;
+}
+.header h1 {
+  font-size: 80px;
+}
+
+
+#titleh {
+  font-size: 18px;
+  font-weight: bold;
+
+}
+
+footer {
+  background-color: rgb(115, 156, 175);
+  color: rgb(65, 71, 99);
+  width: 100%;
+  text-align: center;
+  border-color: rgb(64, 150, 99);
+
+}
+
